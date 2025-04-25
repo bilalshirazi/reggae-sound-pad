@@ -35,7 +35,7 @@ A browser-based sound pad application featuring authentic reggae samples, instru
 
 ## Try It Out
 
-You can try the Reggae Sound Pad right now by visiting: [https://bshirazi.github.io/reggae-sound-pad](https://bshirazi.github.io/reggae-sound-pad)
+You can try the Reggae Sound Pad right now by visiting: [https://bilalshirazi.github.io/reggae-sound-pad](https://bshirazi.github.io/reggae-sound-pad)
 
 ## License
 
